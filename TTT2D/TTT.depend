@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1505142504 source:c:\users\admin\desktop\kth\semester 1\ai\ttt\main.cpp
+	"player.hpp"
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1505142504 c:\users\admin\desktop\kth\semester 1\ai\ttt\player.hpp
+	"constants.hpp"
+	"deadline.hpp"
+	"move.hpp"
+	"gamestate.hpp"
+	<vector>
+
+1505142504 c:\users\admin\desktop\kth\semester 1\ai\ttt\constants.hpp
+	<string>
+
+1505142504 c:\users\admin\desktop\kth\semester 1\ai\ttt\deadline.hpp
+	<stdint.h>
+	<stdlib.h>
+	<Windows.h>
+	<time.h>
+	<sys/time.h>
+
+1505142504 c:\users\admin\desktop\kth\semester 1\ai\ttt\move.hpp
+	"constants.hpp"
+	<stdint.h>
+	<vector>
+	<string>
+	<sstream>
+	<cassert>
+	<iostream>
+
+1505142504 c:\users\admin\desktop\kth\semester 1\ai\ttt\gamestate.hpp
+	"constants.hpp"
+	"move.hpp"
+	<stdint.h>
+	<cassert>
+	<cstring>
+	<iostream>
+	<string>
+
